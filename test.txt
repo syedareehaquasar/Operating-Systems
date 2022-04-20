@@ -1,0 +1,6 @@
+This is Line1
+Line2
+Line3
+This is for program to calculate char count of each line.
+end
+End of file
